@@ -19,6 +19,7 @@ for i in range(len(tmp)):
 for a in array:
     print(num_dict[a], end=' ')
 
+# 시간초과
 # for num in array:
 #     print(tmp.index(num), end=' ')
 
